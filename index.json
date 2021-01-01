@@ -1,0 +1,247 @@
+{
+    "subFolders": [
+        {
+            "subFolders": [
+                {
+                    "subFolders": [],
+                    "files": [
+                        {
+                            "fullPath": "presets/4.2/rates/defaults.txt",
+                            "title": "default rates",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1",
+                                "description line 2"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.2/rates/rates_example1.txt",
+                            "title": "some presets 1",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1",
+                                "description line 2"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.2/rates/rates_example2.txt",
+                            "title": "some second presets",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1 second presets exampe",
+                                "description line 2"
+                            ]
+                        }
+                    ],
+                    "fullPath": "presets/4.2/rates",
+                    "name": "rates"
+                },
+                {
+                    "subFolders": [],
+                    "files": [
+                        {
+                            "fullPath": "presets/4.2/tune/defaults.txt",
+                            "title": "default tune",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.2/tune/tuning_example_1 - Copy (2).txt",
+                            "title": "some tuning example 4",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.2/tune/tuning_example_1 - Copy (3).txt",
+                            "title": "some tuning example 3",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.2/tune/tuning_example_1 - Copy.txt",
+                            "title": "some tuning example 2",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.2/tune/tuning_example_1.txt",
+                            "title": "some tuning example",
+                            "version": "4.2",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        }
+                    ],
+                    "fullPath": "presets/4.2/tune",
+                    "name": "tune"
+                }
+            ],
+            "files": [
+                {
+                    "fullPath": "presets/4.2/4.2example.txt",
+                    "title": "some presets 1",
+                    "version": "4.2",
+                    "description": [
+                        "description line 1",
+                        "description line 2"
+                    ]
+                },
+                {
+                    "fullPath": "presets/4.2/4.2example_2.txt",
+                    "title": "some second presets",
+                    "version": "4.2",
+                    "description": [
+                        "description line 1 second presets exampe",
+                        "description line 2"
+                    ]
+                },
+                {
+                    "fullPath": "presets/4.2/defaults.txt",
+                    "title": "default rates",
+                    "version": "4.2",
+                    "description": [
+                        "description line 1",
+                        "description line 2"
+                    ]
+                }
+            ],
+            "fullPath": "presets/4.2",
+            "name": "4.2"
+        },
+        {
+            "subFolders": [
+                {
+                    "subFolders": [],
+                    "files": [
+                        {
+                            "fullPath": "presets/4.3/rates/defaults.txt",
+                            "title": "default rates",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1",
+                                "description line 2"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.3/rates/rates_example1.txt",
+                            "title": "some presets 1",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1",
+                                "description line 2"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.3/rates/rates_example2.txt",
+                            "title": "some second presets",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1 second presets exampe",
+                                "description line 2"
+                            ]
+                        }
+                    ],
+                    "fullPath": "presets/4.3/rates",
+                    "name": "rates"
+                },
+                {
+                    "subFolders": [],
+                    "files": [
+                        {
+                            "fullPath": "presets/4.3/tune/defaults.txt",
+                            "title": "default tune",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.3/tune/tuning_example_1 - Copy (2).txt",
+                            "title": "some tuning example 4",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.3/tune/tuning_example_1 - Copy (3).txt",
+                            "title": "some tuning example 3",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.3/tune/tuning_example_1 - Copy.txt",
+                            "title": "some tuning example 2",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        },
+                        {
+                            "fullPath": "presets/4.3/tune/tuning_example_1.txt",
+                            "title": "some tuning example",
+                            "version": "4.3",
+                            "description": [
+                                "description line 1 example",
+                                "description line 2",
+                                "description line 3 example",
+                                "description line 4 example",
+                                "description line 5 example"
+                            ]
+                        }
+                    ],
+                    "fullPath": "presets/4.3/tune",
+                    "name": "tune"
+                }
+            ],
+            "files": [],
+            "fullPath": "presets/4.3",
+            "name": "4.3"
+        }
+    ],
+    "files": [],
+    "fullPath": "presets",
+    "name": ""
+}
